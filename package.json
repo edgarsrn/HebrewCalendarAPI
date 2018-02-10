@@ -1,0 +1,23 @@
+{
+  "name": "hebrewcalendarapi",
+  "version": "0.1.0",
+  "description": "Hebrew Calendar API",
+  "main": "src\\index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarsrn/HebrewCalendarAPI.git"
+  },
+  "keywords": [
+    "Hebrew",
+    "calendar"
+  ],
+  "author": "Edgar Saranga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edgarsrn/HebrewCalendarAPI/issues"
+  },
+  "homepage": "https://github.com/edgarsrn/HebrewCalendarAPI#readme"
+}
